@@ -1,0 +1,18 @@
+.feedbackOptions__container {
+    display: flex;
+    gap: 15px;
+    margin: 0 auto;
+}
+
+.feedbackOptions__button {
+    border: 1px solid #c5c2c2;
+    border-radius: 3px;
+    background-color: #fff;
+    padding: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+
+}
+.feedbackOptions__button:hover {
+    background-color: rgb(104, 104, 242);
+}
